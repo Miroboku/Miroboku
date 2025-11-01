@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Miroboku/QA-portfolio](https://github.com/Miroboku/QA-portfolio)
 
-- 📫 How to reach me **vladgushpet@gmail.com**
+- 📫 How to reach me **my_email@gmail.com**
 
 - 📄 Know about my experiences [https://miroboku.github.io/](https://miroboku.github.io/)
 
