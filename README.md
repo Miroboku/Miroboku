@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vladyslav</h1>
-<h3 align="center">I'm Vladyslav Hushpet a Junior QA Engineer, Highly motivated to grow in the industry of software testing and with a genuine passion for gamedev and professional game testing.</h3>
+<h1 align="center">Hi 👋, I'm "my name"</h1>
+<h3 align="center">I'm "my full name" a Junior QA Engineer, Highly motivated to grow in the industry of software testing and with a genuine passion for gamedev and professional game testing.</h3>
 
 - 🌱 I’m currently learning **QA courses|API|Postman|SQL also UE5 and Unity**
 
@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vladyslav-hushpet-6844b2242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vladyslav-hushpet-6844b2242/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vladyslav-hushpet-6844b2242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vladyslav-hushpet-6844b2242/" height="30" width="40" /></a>
 <a href="https://discord.gg/hashpi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hashpi" height="30" width="40" /></a>
 </p>
 
