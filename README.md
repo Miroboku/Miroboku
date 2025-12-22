@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **QA courses|API|Postman|SQL also UE5 and Unity**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Miroboku/QA-portfolio](https://github.com/Miroboku/QA-portfolio)
+- 👨‍💻 All of my projects are available at [https://github.com/Miroboku/QA_flashcards](https://github.com/Miroboku/QA_flashcards)
 
 - 📫 How to reach me **vladgushpet@gmail.com**
 
