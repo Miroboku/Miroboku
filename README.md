@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm "my name"</h1>
-<h3 align="center">I'm "my full name" a Junior QA Engineer, Highly motivated to grow in the industry of software testing and with a genuine passion for gamedev and professional game testing.</h3>
+<h1 align="center">Hi 👋, I'm Vladyslav</h1>
+<h3 align="center">I'm Vladyslav Hushpet a Junior QA Engineer, Highly motivated to grow in the industry of software testing and with a genuine passion for gamedev and professional game testing.</h3>
 
 - 🌱 I’m currently learning **QA courses|API|Postman|SQL also UE5 and Unity**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Miroboku/QA-portfolio](https://github.com/Miroboku/QA-portfolio)
 
-- 📫 How to reach me **my_email@gmail.com**
+- 📫 How to reach me **vladgushpet@gmail.com**
 
 - 📄 Know about my experiences [https://miroboku.github.io/](https://miroboku.github.io/)
 
