@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **vladgushpet@gmail.com**
 
-- 📄 My CV: [https://miroboku.github.io/QA_site_CV/](https://miroboku.github.io/QA_site_CV/)
+- 📄 My CV: [https://miroboku.github.io/QA_Junior_CV/](https://miroboku.github.io/QA_Junior_CV/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
